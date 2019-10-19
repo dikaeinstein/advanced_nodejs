@@ -1,0 +1,12 @@
+node_modules
+*.pem
+cleanFiles/files
+watchDir/files
+numbers
+streams/big_file
+streams/big_file.zz
+addon-src/build/Release
+addon-src/build/binding.Makefile
+addon-src/build/config.gypi
+addon-src/build/gyp-mac-tool
+addon-src/build/addon.target.mk
